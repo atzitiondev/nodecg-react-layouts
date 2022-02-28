@@ -2,23 +2,12 @@
   "name": "nodecg-react-layouts",
   "version": "0.1.0",
   "description": "A boilerplate bundle to get started with NodeCG, React and Flux.",
-  "homepage": "https://github.com/mkrl/nodecg-react",
-  "author": {
-    "name": "mkrl",
-    "email": "self@mkrl.xyz",
-    "url": "https://mkrl.xyz"
-  },
   "files": [
     "dashboard",
     "graphics",
     "extension.js",
     "src",
     "extension"
-  ],
-  "keywords": [
-    "react",
-    "flux",
-    "nodecg-bundle"
   ],
   "nodecg": {
     "compatibleRange": "^1.1.1",
@@ -84,7 +73,6 @@
       }
     ]
   },
-  "repository": "git@github.com:mkrl/nodecg-react-layouts.git",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.0.0",
